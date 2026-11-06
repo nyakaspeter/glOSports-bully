@@ -1,0 +1,6 @@
+[Entry]
+CATEGORY=Games
+NAME=Bully: Anniversary Edition
+DESCRIPTION=Running natively via Rockstar's Android build
+COMMAND=/home/player/ports/bully/start.sh
+ICON=/home/player/ports/bully/icon.png
