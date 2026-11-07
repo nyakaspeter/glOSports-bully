@@ -29,7 +29,7 @@ From your own install of the Android game (package
 
 | From | What goes into `game/` |
 |---|---|
-| the `.apk` (the release whose OBBs are set 11) | `lib/armeabi-v7a/libBully.so`, and the contents of `assets/` |
+| the `.apk` (version 1.0.0.19, the release whose OBBs are set 11) | `lib/armeabi-v7a/libBully.so`, and the contents of `assets/` |
 | `main.11.com.rockstargames.bully.obb` | copied as is (not unpacked) to `game/Android/main.obb` |
 | `patch.11.com.rockstargames.bully.obb` | copied as is to `game/Android/patch.obb` |
 
